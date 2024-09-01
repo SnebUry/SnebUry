@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, eu sou Rubens Gabriel da Silva
 
-<!--
-**SnebUry/SnebUry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://rgdsrubens@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/snebury)
 
-Here are some ideas to get you started:
+![Snebury GitHub stats](https://github-readme-stats.vercel.app/api?username=SnebUry&show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso no meu dia
+
+<div style ="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+</div>
